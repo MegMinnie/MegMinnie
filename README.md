@@ -16,8 +16,8 @@ Lover of Technology and Coding 💓
 ![Top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia)
 
 <div align="center">
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="100px" />
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia" width="100px" />
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="50%" />
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia" width="50%" />
 </div>
 
 
