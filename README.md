@@ -15,6 +15,11 @@ Lover of Technology and Coding 💓
 ![MegMinnie Github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 ![Top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia)
 
+<div align="center">
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="100px" />
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia" width="100px" />
+</div>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" />
