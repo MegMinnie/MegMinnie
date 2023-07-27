@@ -12,10 +12,8 @@ Lover of Technology and Coding 💓
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MegMinnie)](https://github.com/MegMinnie)
 
 ## Languages and Tools:<a href="https://github.com/MegMinnie">
-![MegMinnie Github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![Top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia)
 
-<div align="center">
+<div>
    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="50%" />
    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia" width="50%" />
 </div>
