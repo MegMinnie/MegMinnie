@@ -7,11 +7,6 @@ Lover of Technology and Coding 💓
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
-
-<div align="center">
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="44%" />
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia" width="44%" />
-</div>
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MegMinnie)](https://github.com/MegMinnie)
@@ -24,6 +19,13 @@ I'm a...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px" />
+</div>
+
+## Progress
+
+<div align="center">
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MegMinnie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="44%" />
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia" width="44%" />
 </div>
 
 <p>Thank you for visiting!</p>
