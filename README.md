@@ -31,15 +31,10 @@ I'm a...
 
 ## Progress
 
-<div align="center">
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MegMinnie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="44%" />
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia" width="44%" />
-</div>
-
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MegMinnie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=7&theme=dracula" />
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MegMinnie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
 
 <p>Thank you for visiting!</p>
