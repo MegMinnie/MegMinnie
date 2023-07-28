@@ -1,7 +1,7 @@
 ## Hello World, eu sou Mirele!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
-Desenvolvedora Web 👩‍💻
-Amante de TI e programação 💓
+- Desenvolvedora Web 👩‍💻
+- Amante de TI e programação 💓
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
