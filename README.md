@@ -9,7 +9,7 @@ Amante de TI e programação 💓
  
 ## Sobre mim
 
-Sou estudante de Licenciatura em Computação...
+Sou graduanda em Licenciatura em Computação pelo IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia...
 
 ## Linguagens e ferramentas
 
