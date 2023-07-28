@@ -18,11 +18,10 @@ Lover of Technology and Coding 💓
    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia" width="40%" />
 </div>
 
-
-
-
-
-
+<hr>
+<br>
+<br>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" />
