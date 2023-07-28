@@ -14,23 +14,15 @@ Lover of Technology and Coding 💓
 ## Languages and Tools:<a href="https://github.com/MegMinnie">
 
 <div align="center">
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="40%" />
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia" width="40%" />
-
-<pre>
-
-
-
-
-</pre>
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px" />
 </div>
-          
 
-- Thanks for visiting. 
- 
-- Enjoy it!! 🤖
+<div align="center">
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="40%" />
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=8&theme=algolia" width="40%" />
+</div>
+
+<p align="center">Thank you for visiting!</p>
+<p align="center">Enjoy it!! 🤖</p>
