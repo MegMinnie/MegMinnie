@@ -34,3 +34,5 @@ Sou graduanda em Licenciatura em Computação pelo IFBA - Instituto Federal de E
 <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=7&theme=dracula" />
  <!-- <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=MegMinnie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
 </div>
+
+<span>[![](https://visitcount.itsvg.in/api?id=megminnie&icon=5&color=10)](https://visitcount.itsvg.in)</span>
