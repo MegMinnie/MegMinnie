@@ -1,9 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-## Hello World, eu sou Mirele!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
- 
-- Desenvolvedora Web 👩‍💻
-- Amante de TI e programação 💓
+<h1 align="center">Mirele Oliveira :crystal_ball:</h1>
+<br>
+
+<ul>
+	<li>:seedling: Aprendendo desenvolvimento web</li>
+ 	<li>:purple_heart: Futura dev</li>
+	<li>:computer: Técnica em informaática pelo Centro Territorial de Educação Profissional do Piemonte da Diamantina II</li>
+	<li>:mortar_board: Estou no 6º semestre do curso de Computação do IFBA (Instituto Federal da Bahia) - Campus Jacobina.</li>
+</ul>
+
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
@@ -37,8 +43,11 @@ Sou graduanda em Licenciatura em Computação pelo IFBA - Instituto Federal de E
 
 <div align="center">
   <a href="https://github.com/MegMinnie">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=MegMinnie&show_icons=true&hide=stars&show=reviews&include_all_commits=false&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=10"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/pin/?username=MegMinnie&repo=github-readme-stats&cache_seconds=86400&theme=cobalt
+"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=MegMinnie&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt
+"/>
+  
 </div>
 
  </div>
