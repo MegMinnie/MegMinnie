@@ -10,15 +10,6 @@
 	<li>:mortar_board: Estou no 6º semestre do curso de Computação do IFBA (Instituto Federal da Bahia) - Campus Jacobina.</li>
 </ul>
 
-
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
- 
-## Sobre mim
-
-Sou graduanda em Licenciatura em Computação pelo IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia...
-
 ## Linguagens e ferramentas
 
 <div>
@@ -27,6 +18,10 @@ Sou graduanda em Licenciatura em Computação pelo IFBA - Instituto Federal de E
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="40" height="60"/>
+  
+  
 
  
 </div>
