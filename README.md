@@ -44,7 +44,7 @@ Sou graduanda em Licenciatura em Computação pelo IFBA - Instituto Federal de E
 <div align="center">
   <a href="https://github.com/MegMinnie">
 <img height="" src="https://github-readme-stats.vercel.app/api?username=MegMinnie&theme=cobalt&show_icons=true&show=reviews&include_all_commits=true&count_private=true" />
- <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegMinniey&layout=compact&langs_count=99&theme=cobalt"/>
+ <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=99&theme=cobalt"/>
 </div>
 
  </div>
