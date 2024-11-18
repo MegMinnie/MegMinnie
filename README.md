@@ -12,7 +12,7 @@
 
 ## Progresso
 
-<div align="center">
+<div>
   <a href="https://github.com/MegMinnie">
 <img height="" src="https://github-readme-stats.vercel.app/api?username=MegMinnie&theme=nightowl&show_icons=true&show=reviews&include_all_commits=true&count_private=true" />
  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegMinnie&layout=compact&langs_count=99&theme=nightowl"/>
