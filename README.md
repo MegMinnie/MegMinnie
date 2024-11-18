@@ -19,6 +19,7 @@
 </div>
 
  </div>
+ <br>
 
 <span>[![](https://visitcount.itsvg.in/api?id=megminnie&icon=5&color=10)](https://visitcount.itsvg.in)</span>
 
@@ -49,3 +50,4 @@
 <a href="https://www.linkedin.com/in/mirele-oliveira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
