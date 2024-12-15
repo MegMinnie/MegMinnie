@@ -42,6 +42,13 @@
    
 </div>
 
+## Atualmente aprendendo:
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" alt="node" width="40" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="60"/>
+  
+
 ## Contatos
 
 <div>
