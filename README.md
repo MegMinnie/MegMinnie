@@ -46,7 +46,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node.js/node.js-original.svg" alt="node.js" width="40" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="60"/>
   </div>
 
