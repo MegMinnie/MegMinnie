@@ -21,7 +21,7 @@
  </div>
  <br>
 
-<p>[![](https://visitcount.itsvg.in/api?id=megminnie&icon=5&color=10)](https://visitcount.itsvg.in)</p>
+<span>[![](https://visitcount.itsvg.in/api?id=megminnie&icon=5&color=10)](https://visitcount.itsvg.in)</span>
 
 
 ## Linguagens e ferramentas
